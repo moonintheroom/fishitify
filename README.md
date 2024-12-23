@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c961b7f8-f608-40bd-bb6a-c1e081aaaa9b)# fishitify
+# fishitify
 fishi+identify=fishitify
 
 ## streamlin 
