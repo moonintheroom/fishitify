@@ -6,3 +6,5 @@ fishi+identify=fishitify
 
 ## Velog 
 [fighitify1](https://velog.io/@donggu_dongdong/Object-Detection1)
+[fighitify2](https://velog.io/@donggu_dongdong/Object-Detection2)
+[fighitify3](https://velog.io/@donggu_dongdong/Object-Detection3)
