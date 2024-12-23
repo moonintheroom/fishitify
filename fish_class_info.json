@@ -1,0 +1,58 @@
+{
+    "bang-eo": {
+        "name": "방어",
+        "edible": "Yes",
+        "description": "방어는 겨울철에 가장 맛있으며, 주로 회로 먹습니다.",
+        "type": "바닷물고기",
+        "habitat": "주로 남해와 동해의 연안"
+    },
+    "daegu": {
+        "name": "대구",
+        "edible": "Yes",
+        "description": "대구는 찜, 조림, 탕 등 다양한 요리로 즐길 수 있습니다.",
+        "type": "바닷물고기",
+        "habitat": "동해와 북태평양 심해"
+    },
+    "gamseongdom": {
+        "name": "감성돔",
+        "edible": "Yes",
+        "description": "감성돔은 고급 횟감으로 유명합니다.",
+        "type": "바닷물고기",
+        "habitat": "한국 연안의 암초 지대"
+    },
+    "gasung-eo": {
+        "name": "가숭어",
+        "edible": "Yes",
+        "description": "가숭어는 회로도 먹지만, 탕으로도 인기가 많습니다.",
+        "type": "기수어",
+        "habitat": "하구와 기수역"
+    },
+    "godeung-eo": {
+        "name": "고등어",
+        "edible": "Yes",
+        "description": "고등어는 구이, 조림으로 가장 많이 먹는 생선입니다.",
+        "type": "바닷물고기",
+        "habitat": "한국과 일본 연안의 바다"
+    },
+    "hwang-eo": {
+        "name": "황어",
+        "edible": "No",
+        "description": "황어는 보호종으로 섭취가 권장되지 않습니다.",
+        "type": "민물고기",
+        "habitat": "강과 하천"
+    },
+    "nong-eo": {
+        "name": "농어",
+        "edible": "Yes",
+        "description": "농어는 담백한 맛으로 회와 구이에 적합합니다.",
+        "type": "바닷물고기",
+        "habitat": "연안과 하구 지역"
+    },
+    "sung-eo": {
+        "name": "숭어",
+        "edible": "Yes",
+        "description": "숭어는 산란철에 맛이 좋아지며, 주로 회로 먹습니다.",
+        "type": "기수어",
+        "habitat": "강 하구와 연안"
+    }
+}
